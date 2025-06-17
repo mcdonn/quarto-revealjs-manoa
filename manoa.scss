@@ -220,10 +220,11 @@ $link-color: $char !default;
 
 // Logo options
 .reveal .slide-logo {
-  height: 50px !important;
+  height: auto;
+  min-height: 50px;
   //width: 250px !important;
-  max-width: unset !important;
-  max-height: unset !important;
+  // max-width:  !important;
+  max-height: 200px;
   z-index: -1 !important;
   padding-bottom: 5px;
   padding-right: 5px;

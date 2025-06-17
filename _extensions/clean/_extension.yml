@@ -6,7 +6,7 @@ contributes:
   formats:
     revealjs:
       theme: [default, manoa.scss]
-      logo: "img/left.png"
+      logo: "https://bradleymcdonnell.com/img/left.png"
       menu: false
       slide-number: true
       date-format: long
